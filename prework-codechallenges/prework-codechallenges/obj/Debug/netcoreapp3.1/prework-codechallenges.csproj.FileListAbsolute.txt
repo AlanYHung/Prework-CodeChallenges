@@ -1,0 +1,13 @@
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\bin\Debug\netcoreapp3.1\prework-codechallenges.exe
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\bin\Debug\netcoreapp3.1\prework-codechallenges.deps.json
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\bin\Debug\netcoreapp3.1\prework-codechallenges.runtimeconfig.json
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\bin\Debug\netcoreapp3.1\prework-codechallenges.runtimeconfig.dev.json
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\bin\Debug\netcoreapp3.1\prework-codechallenges.dll
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\bin\Debug\netcoreapp3.1\prework-codechallenges.pdb
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.csprojAssemblyReference.cache
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.AssemblyInfoInputs.cache
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.AssemblyInfo.cs
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.csproj.CoreCompileInputs.cache
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.dll
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.pdb
+C:\Users\AlanY\Documents\Projects\Code Fellows 401\prework-codechallenges\prework-codechallenges\prework-codechallenges\obj\Debug\netcoreapp3.1\prework-codechallenges.genruntimeconfig.cache
